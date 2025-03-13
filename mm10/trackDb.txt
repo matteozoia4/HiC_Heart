@@ -2,6 +2,6 @@
 track HiC_Heart_rep1
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c1998bf9f40d37a0/display?to_ext=binary
 shortLabel HiC_wt_E18.5_Heart_Tissue 
-longLabel GSM6614283 - Zhang, J. Nat. Comm. DOI https://doi.org/10.1038/s41467-024-49684-1
+longLabel HiC_wt_E18.5_Heart_Tissue - GSM6614283 - Zhang, J. Nat. Comm.
 type hic
 visibility full
