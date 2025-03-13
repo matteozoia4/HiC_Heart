@@ -1,0 +1,5 @@
+hub OSTERWALDER LAB - HiC Heart 
+shortLabel HiC - wt Heart Tissue E18.5
+longLabel GSM6614283 - Zhang, J. Nat. Comm. DOI https://doi.org/10.1038/s41467-024-49684-1
+genomesFile genomes.txt 
+email  matteo.zoia@dbmr.unibe.ch
