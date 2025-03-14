@@ -7,27 +7,21 @@ type hic
 visibility full
 
 track HiC_Heart_rep1_v4C_Hand2_Promoter
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213553cc96941741d624/display?to_ext=binary
-shortLabel v4C Heart - Hand2 promoter interactions 
-longLabel virtual-4C E18.5 wt mice Hearts / cis-interactions with Hand2 Promoter (chr8:57315982-57325982 = 10kb)
-visibility full
-
-#track HiC_Heart_rep1_v4C_Hand2_Promoter
-#    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135266a55f6f2ee54bb/display?to_ext=bigwig
-#    shortLabel v4C Heart - Hand2 promoter interactions
-#    longLabel virtual-4C E18.5 wt mice Hearts / cis-interactions with Hand2 Promoter (chr8:57315982-57325982 = 10kb)
-#    type bigWig 0 30000
-#    configurable on
-#    visibility full
-#    windowingFunction mean+whiskers
-#    viewLimits 0:5
-#    viewLimitsMax 0:124.127
-#    maxHeightPixels 128:30:11
-#    aggregate stacked
-#    showSubtrackColorOnUi on
-#    autoScale off
-#    smoothingWindow off
-#    yLineOnOff off
-#    yLineMark 1
-#    gridDefault off
-#    color 0,0,0
+    bigDataUrl 
+    shortLabel v4C Heart - Hand2 promoter interactions
+    longLabel virtual-4C E18.5 wt mice Hearts / cis-interactions with Hand2 Promoter (chr8:57315982-57325982 = 10kb)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:5
+    viewLimitsMax 0:124.127
+    maxHeightPixels 128:30:11
+    aggregate stacked
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 0,0,0
