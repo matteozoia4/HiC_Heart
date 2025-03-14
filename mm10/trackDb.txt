@@ -10,7 +10,6 @@ track HiC_Heart_rep1_v4C_Hand2_Promoter
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213553cc96941741d624/display?to_ext=binary
 shortLabel v4C Heart - Hand2 promoter interactions 
 longLabel virtual-4C E18.5 wt mice Hearts / cis-interactions with Hand2 Promoter (chr8:57315982-57325982 = 10kb)
-type hic
 visibility full
 
 #track HiC_Heart_rep1_v4C_Hand2_Promoter
